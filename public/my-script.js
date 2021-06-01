@@ -9,6 +9,7 @@ var HobbitSettlement = class {
 	}
 };
 
+
 var theShire = new HobbitSettlement('The Shire', 1601, ['Marcho', 'Blanco']);
 
 var bree = new HobbitSettlement('Bree', 473, 'Atanatári who did not reach Beleriand');
